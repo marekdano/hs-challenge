@@ -1,0 +1,15 @@
+{
+  "name": "hs-challenge",
+  "version": "1.0.0",
+  "description": "solution to the hs challenge",
+  "main": "index.js",
+  "author": "Marek Dano <mk.dano@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
