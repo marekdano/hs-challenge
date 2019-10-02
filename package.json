@@ -2,14 +2,17 @@
   "name": "hs-challenge",
   "version": "1.0.0",
   "description": "solution to the hs challenge",
-  "main": "index.js",
+  "main": "",
   "author": "Marek Dano <mk.dano@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "",
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-jest": "^24.9.0",
     "jest": "^24.9.0"
   }
 }
